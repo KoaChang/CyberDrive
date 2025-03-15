@@ -1,0 +1,252 @@
+id,question
+1,Was ego doing a legal maneuver if its goal is to turn right at the intersection? A. It's legal as the lane is empty. B. It's illegal as the right turn lane is bloacked by construction. C. It's illegal as ego was cutting in other vehicles that were waiting. D. It's legal but the lane ahead is way too narrow for ego to pass.
+2,Where can ego legally park on this street? A. No parking anywhere. B. next to right curb. C. anywhere. D. next to left curb.
+3,What is the best description of the maneuver ego just did? A. Lane change to the left and then lane change to the right. B. Lane change to the right and then lane change to the left. C. Staying in a lane which curves to the left and then to the right. D. Staying in a lane which curves to the right and then to the left.
+4,Why is ego stopped? A. Judah. B. Traffic Light. C. Someone is crossing the road. D. Construction.
+5,"What is the blinker state of the oncoming car, with respect to the oncoming car itself? A. LEFT. B. RIGHT. C. BOTH. D. OFF."
+6,What is the reason ego changed lanes to the left? A. Left lane has better views. B. Current lane is exit only. C. Current lane has a lower speed limit. D. Current lane is blocked.
+7,What is the correct behavior for ego and why? A. Continue straight in a nominal scenario. B. Slow down for a pedestrian. C. Veer left to avoid an obstacle. D. Veer right to avoid an obstacle.
+8,How many flashing traffic light bulbs are there? A. 0. B. 2. C. 4. D. 6.
+9,Which one if more accurate in terms of the distance from the back of the red car in front to the front bumper of the ego? A. 20m. B. 40m. C. 60m. D. 100m.
+10,"Ignoring pedestrian lights, how many traffic lights are relevant to ego? A. 2. B. 4. C. 6. D. 8."
+11,What is the status of the traffic light? A. Solid green. B. Blinking green. C. Solid red. D. Blinking red.
+12,What are the available maneuvers through the intersection for the right most lane? A. Go straight only. B. Turn right only. C. Go straight and turn right. D. None of the above.
+13,Where is the pedestrian with respect to ego? A. On the crosswalk closest to ego. B. On the crosswalk on the left. C. On the crosswalk on the right. D. On the crosswalk at the opposite side of the intersection.
+14,Why does the truck ahead of ego have its blinkers on? A. To signal a lane change away from ego. B. To signal a merge towards ego. C. To show hazardous conditions. D. Its blinkers are not on.
+15,What should ego do? A. turn right. B. pullover and yield for the emergency vehicle. C. turn left. D. come to a stop and then proceed from stop sign.
+16,What would be the most appropriate maneuver for ego from this position? A. Reverse. B. Turn left. C. Turn right. D. Go straight.
+17,What hazard is on the ground? A. Mud. B. Leaves. C. Oil. D. Snow.
+18,Why is it necessary for the car to slow down? A. For another vehicle. B. For a pedestrian. C. For an animal. D. For a traffic light.
+19,How many lanes are there in total and which lane is best for going to Half Moon Bay? A. 4 and the right most lane. B. 5 and the right most lane. C. 4 and the second right most lane. D. 5 and the second most lane.
+20,Is it safe for ego to park right here? A. yes there is a parking lot here. B. Yes the shoulder is large enough. C. No there's no safe place to pullover. D. No there's a fire station.
+21,What type of lane is to the right of ego? A. Bus lane. B. Bike lane. C. Carpool lane. D. Right-turn-only lane.
+22,At what time can ego park at the side of the road? A. 9am. B. 2pm. C. 8pm. D. None of the above.
+23,What's the state of ego-relevant traffic light? A. Green left arrow. B. Green right arrow. C. Yellow left arrow. D. Yellow right arrow.
+24,Which traffic light is the most immediately relevant for ego? A. Red light. B. Red light for right turn. C. Yellow light. D. Green light.
+25,"How many vehicles appeared in the video, just consider those on the same side of ego? A. 3. B. 4. C. 5. D. 6."
+26,Which directions can ego proceed in? A. straight. B. straight or right. C. left only. D. None of the above.
+27,What's the upcoming exit number? A. 1. B. 500. C. 27. D. 80.
+28,Is there a vehicle to ego's left? A. Yes. B. No. C. Insufficient evidence. D. None of the above.
+29,Why did ego come to a stop? A. Crossing vehicle. B. No space without blocking intersection. C. Stop sign. D. Cross pedestrians.
+30,What is the most likely course of action for the vehicle in front of ego? A. Turn left. B. Go straight. C. Turn right. D. Reverse.
+31,"Is it appropriate for ego to turn right now and why? A. Yes, for a right on red. B. Yes, the traffic lights are green. C. No, there is a no right on red sign. D. No, there is cross traffic."
+32,What is the weight limit on this road? A. 3 lbs. B. 3 tons. C. 3 kgs. D. 3 oz.
+33,"What's wrong with ego's behavior? A. Ego is bumping into the ballard. B. Ego is speeding. C. Ego is driving on the wrong direction of the road. D. Things look normal, nothing is wrong."
+34,How many drivable lanes in the scene that are parallel (include opposing lanes as well) to ego? A. 5. B. 4. C. 3. D. 6.
+35,What's special about the lane to the right of ego? A. Bike lane. B. Reversible lane. C. Bus lane. D. HOV lane.
+36,Count the number of unique vehicles that enter the video frame but do not exit the video frame. A. 0. B. 1. C. 2. D. 3. E. 4.
+37,Why is ego's current lane not appropriate? A. It's for oncoming traffic. B. It's closed for roadwork. C. Heavier traffic than required. D. It's not for passenger cars.
+38,Count the number of unique pedestrians seen by the ego. A. 0. B. 1. C. 2. D. 3. E. 4.
+39,Why does the car in front of ego stop? A. Red Light. B. Stop Sign. C. Yielding to cross-traffic. D. Does not come to a stop.
+40,What is the white car most likely to do at the stop sign? A. turn right. B. full stop. C. proceed straight. D. turn left.
+41,Which ways may ego proceed from it's current lane? A. straight only. B. straight or left. C. left only. D. right only.
+42,Which traffic light is relevant to ego's current lane? A. The blinking left arrow. B. The green circle. C. The blinking right arrow. D. The red circle.
+43,What type of building is the road sign indicating is ahead? A. Airport. B. Embassy. C. Restaurant. D. Hotel.
+44,Why is it appropriate for ego to remain stopped? A. Waiting for right of way. B. For a traffic light. C. For a stop sign. D. For a pedestrian.
+45,Which lane is blocked by construction? A. Left most lane. B. Center lane. C. Right most lane. D. None of the above.
+46,What is closest to the average speed of the truck in front of ego? A. 5 miles per hour. B. 17 miles per hour. C. 24 miles per hour. D. 35 miles per hour.
+47,Why is ego slowing down? A. pedestrian on crosswalk. B. stop sign. C. red light. D. Open car door.
+48,What can ego do next while the light is still red? A. Make a left turn. B. Make a right turn. C. Go in reverse. D. Stay stopped.
+49,"At the roundabout, which way leads to Monroe Drive? A. Straight. B. Left. C. Right."
+50,"When the light turns green, can ego traverse straight through the intersection and why? A. Yes, this is a legal maneuver. B. No, there is construction ahead. C. No, there is a sign that says yield to pedestrians. D. No, there is a sign that says all traffic must turn."
+51,What kind of traffic control is the car approaching? A. Cones. B. Stoplight. C. Stop sign. D. Roundabout.
+52,How many lanes go straight through the intersection? A. 1. B. 2. C. 3. D. 4.
+53,"Ignoring road shoulders, how many drivable lanes are in the same direction as ego? A. 3. B. 4. C. 1. D. 2."
+54,What is the correct behavior for ego and why? A. Continue straight in a nominal scenario. B. Veer left for a merge. C. Veer left for debris. D. Speed up for the upcoming highway.
+55,What is ego waiting for to continue? A. Pedestrian. B. Car. C. Bus. D. Gate Arm.
+56,Why is it inappropriate for ego to turn left at the intersection ahead? A. The road is blocked by construction. B. The road is blocked by other vehicles. C. There is a no left turn sign. D. None of the above.
+57,What is the speed limit of the current road? A. 25. B. 30. C. 35. D. 40.
+58,Why is ego slowing down? A. All-way stop sign. B. Red light. C. Stopped car. D. Heavy rain.
+59,What maneuver is the black vehicle in front of ego executing? A. An unprotected left turn. B. A protected left turn. C. Driving straight. D. A right turn.
+60,From which lanes can you take the upcoming exit? A. Only rightmost. B. Right two lanes. C. Right three lanes. D. Leftmost lane.
+61,What is the color of the car immediately in front of ego? A. Black. B. Blue. C. Red. D. White.
+62,What action should ego take at the upcoming intersection? A. Turn left. B. Go straight. C. Turn right. D. Reverse.
+63,What are the lights for the vehicle in front of ego for? A. Left turn signal. B. Brake lights. C. Right turn signal. D. Hazard lights.
+64,How many traffic lights are relevant for the intersection that ego is currently at? A. 3. B. 4. C. 5. D. 6.
+65,Describe ego's speed with respect to others on the same side of the road. A. Moving slower than others. B. Moving faster than others. C. Moving at roughly the same speed. D. Actively accelerating.
+66,What is the mostly likely future behavior of the ego? A. Pull over due to the emergency vehicle. B. Brake to avoid colliding into the cyclist. C. Stop for the construction zone. D. Continue to proceed straight slowly.
+67,How many red left turn arrows appear in this video? A. 0. B. 1. C. 2. D. 3.
+68,What do the markings on the ground indicate? A. Railroad crossing ahead. B. Road closed. C. Detour ahead. D. Highway entrance.
+69,What is the most likely action for vehicles on ego's current lane? A. Exit the highway. B. Come to a full stop. C. Continue on the highway. D. Turn Left.
+70,"Is it appropriate for ego to go straight through the intersection and why? A. Yes, there is a straight arrow road marking. B. Yes, it is implied by the road structure. C. No, there is cross traffic. D. No, there is a curb ahead."
+71,What best describes the right lane line in ego's lane? A. Solid white line. B. Solid yellow line. C. Double yellow line. D. Dotted white line.
+72,Which of the following best describes the traffic light transition relevant to ego during the video? A. Green to yellow. B. Red to green. C. Yellow to red. D. Red to yellow.
+73,What are the legal maneuvers from ego's current lane? A. Right turn only. B. Go straight only. C. Left turn only. D. Left turn and go straight.
+74,How many unique vehicles cross in front of ego and completely exit the video frame? A. 0. B. 1. C. 2. D. 3.
+75,Describe the lane in front of ego. A. It is clear to proceed. B. There is a parked car in front. C. There is a car with hazard lights on. D. There are traffic cones.
+76,How many right turn lanes are there at this intersection? A. 1. B. 2. C. 3. D. 4.
+77,What is the speed limit of the road that ego is currently on? A. 25. B. 35. C. 45. D. 50.
+78,Why should ego slow down? A. School zone. B. Traffic lights. C. Stop sign. D. Yield sign.
+79,What direction is the bus going with respect to ego? A. Same direction as ego. B. Opposite direction from ego. C. Right to left. D. Left to right.
+80,"Which state is the license plate of the closest, visible white BMW from? A. Texas. B. Delaware. C. California. D. Oregon."
+81,What best describes ego action? A. Offset for road debris. B. Offset for open car door. C. stopping for a road closure. D. yielding for merge to highway.
+82,Why is the most likely reason for the red Honda in front of ego to be stopped during the video? A. It is parked. B. There is a stop sign. C. The traffic light is red. D. It is waiting for a vehicle to pass. 
+83,"To get to Polvos, what should ego do? A. Turn left. B. Left lane change and then turn left. C. Turn right. D. Right lane change and then turn right."
+84,"Ego's destination is Univeristy Blvd, what is the best course of action here? A. Continue lane changing to the left and keep right at the fork. B. Continue straight and keep left at the fork. C. Turn around. D. None of the above."
+85,Is it safe to pull over on the right shoulder for ego? A. No because of cones and roadwork. B. No because there is no shoulder. C. Yes. D. No because of parked cars.
+86,In which direction is the running pedestrian in a t-shirt and shorts moving with respect to ego? A. In the same direction as ego. B. In the opposite direction of ego. C. From left to right. D. From right to left.
+87,How many unique parked cars on the right did ego pass? A. 2. B. 6. C. 10. D. None.
+88,What lanes can ego be on to go straight through the intersection? A. Left lane. B. Right lane. C. Left and right lane. D. None of the above.
+89,Which of the following accurately describes the stop signs at the upcoming intersection? A. Two way stop for ego. B. Two way stop for cross traffic. C. Four way stop. D. No stop signs present.
+90,In which direction is the moving car traversing from the perspective of ego? A. Same direction as ego. B. Opposite direction from ego. C. Left to right. D. Right to left.
+91,What was wrong with ego's action? A. Ran a red light. B. Drove into an area not meant for driving. C. Hit a curb. D. Speeding.
+92,What are the available maneuvers in the intersection ahead for ego's current lane? A. Left turn only. B. Right turn only. C. Left turn and right turn. D. None of the above.
+93,What is the state of the left turn arrow light? A. Solid yellow. B. Flashing yellow. C. Solid red. D. Flashing red.
+94,What is the intent of the truck at the next intersection? A. Left. B. Straight. C. Right.
+95,What is the blinker state of the car in front of ego? A. No blinker is on. B. Left blinker is on. C. Right blinker is on. D. Hazard lights are on.
+96,How many pedestrians are crossing in front of ego? A. 1. B. 2. C. 3. D. None.
+97,What does the diamond sign to the right of ego say? A. Stop. B. Yield. C. School Zone. D. Road Work Ahead.
+98,Why was it appropriate for ego to slow down? A. There is a car that is broken down. B. There is a stop sign. C. There is a traffic light. D. There is a car doing a 3 point turn.
+99,"Given ego's current position, what should ego do next at the intersection? A. turn left. B. turn right. C. go straight. D. park."
+100,Why is it illegal for ego to continue straight through the intersection? A. Ego is in a turn only lane. B. There is a Do Not Enter sign. C. There is a parking sign. D. The road ahead is blocked by construction.
+101,What is the name of the exit ahead? A. 230B. B. 240B. C. 250B. D. Insufficient information.
+102,Which of the following best describes the left lane line in the lane ego is currently driving. A. Single white line. B. Double white line. C. No lane lines. D. Single Yellow Line.
+103,Why would it be inappropriate for ego to lane change to the right? A. The lane to the right is a shoulder. B. The lane to the right is blocked by an obstacle. C. The lane to the right is only for buses and taxis. D. The lane to the right is currently occupied by another vehicle.
+104,What is the speed limit on the road that ego is on? A. 25mph. B. 30mph. C. 35mph. D. 55mph.
+105,Which vehicle on the right side of the road is closest to ego? A. Construction Truck. B. RV. C. Mini-van. D. Bicycle.
+106,Which of the following best describes the traffic light transition during the video? A. No transition. B. Green to yellow. C. Yellow to red. D. Red to green.
+107,Why is it inappropriate for ego to continue straight through the intersection? A. This is a T junction. B. The road ahead is blocked by a physical barrier. C. There is a one way sign. D. The road ahead is blocked by a person.
+108,How many traffic lights ahead are control relevant for the going straight maneuver? A. 1. B. 2. C. 3. D. 4.
+109,What is the most likely future action for the bus in front of ego? A. Turn left. B. Go straight. C. Turn right. D. Reverse.
+110,What is the most likely current gear state of the black car? A. Reverse. B. Drive. C. Neutral. D. Park.
+111,"Ignoring pedestrian crossing lights, how many traffic lights are control relevant for ego at the current intersection? A. 1. B. 2. C. 4. D. 5."
+112,What is the slope of the road ego is driving on during the video? A. Uphill. B. Downhill. C. Flat. D. None of the above.
+113,What is the speed limit of the road that ego is currently on? A. 15. B. 20. C. 25. D. 30
+114,Which direction can you proceed from ego's current lane? A. Left only. B. Straight only. C. Right only. D. Straight and right.
+115,"If the gate arms ahead come down, what is the likely crossing object? A. Pedestrian. B. Car. C. Animal. D. Train."
+116,Which lane should ego be on to go onto Airport Boulevard? A. Left most lane only. B. Left most lane and center lane. C. Right most lane only. D. Right most lane and center lane.
+117,Which direction does ego need to go to enter the I-5 Southbound? A. Left. B. Straight. C. Right. D. Insufficient information.
+118,Which direction can you NOT proceed into at this intersection? A. Straight. B. Left. C. Right. D. None of the above.
+119,What is the car in front of ego doing? A. Parked. B. Waiting for an unprotected left turn. C. Waiting for a protected left turn. D. Waiting for the car ahead to move off.
+120,Which of the following best describes the weather outside? A. Sunny. B. Snowy. C. Overcast. D. Raining.
+121,What should ego pay attention to when deciding whether it is okay to proceed through the intersection? A. The traffic light only. B. The no turn on red sign only. C. The gate arm only. D. The traffic light and the gate arm.
+122,Which of the following best describes the transition of the hand held sign by the construction worker during the video? A. Stop to slow. B. Slow to stop. C. Stop to yield. D. Yield to slow.
+123,Why is it necessary for ego to slow down? A. For a pedestrian crossing ahead. B. For an animal on the road. C. For a pedestrian crossing the road. D. For a red traffic light ahead.
+124,How should ego control for the cone in front? A. No control required for the cone. B. Come to a full stop for the cone. C. Lane change to avoid the cone. D. Run over the cone.
+125,How many lanes are to the right of ego? A. 5. B. 4. C. 3. D. 2. E. 1.
+126,Can you proceed straight at the intersection from ego's current lane? A. Yes. B. No.
+127,What is the legal maneuver for ego at the upcoming intersection? A. Turn left. B. Turn right. C. Go straight. D. Turn left and turn right.
+128,"Did the white car do a lane change in the video and if so, in which direction? A. No lane change. B. Lane change to the left. C. Lane change to the right. D. No white car in the scene."
+129,What action best describes ego's motion during the video? A. Swerve for a pedestrian. B. Stop for a harsh braking car in the front. C. Swerve to avoid road debris. D. Slow down to drive over road debris.
+130,What maneuver did the car in front of ego just perform? A. Emergency pull over. B. Right turn. C. Left turn. D. U-turn.
+131,"What is the color and shape of the traffic light relevant to ego, assuming ego is in the right most lane? A. Red Right Arrow. B. Red Left Arrow. C. Red Circle. D. Yellow Left Arrow."
+132,What is the speed limit on this road? A. 30 mph. B. 35 mph. C. 40 mph. D. 45 mph.
+133,"If the traffic light ahead turns red, does ego need to come to a stop? A. Yes. B. No. C. Ambiguous. D. There are no traffic lights in the scene."
+134,Why can ego not turn right at this intersection? A. Blocked by construction. B. One way sign. C. Traffic lights. D. There is a blue car ahead.
+135,Can ego go straight at this intersection? A. No because there are no signs in the scene that indicate ego's lane can go straight. B. No because roadwork has closed the lane ahead. C. No because there is a one way sign. D. Yes.
+136,Did the white pickup truck make an illegal maneuever? A. Yes it ran a red light. B. Yes it made a left turn from a straight only lane. C. Yes it drove through a road closure. D. No it drove legally.
+137,"Which lane should ego take if the nav route requires ego to turn right immediately after ego turns left at this intersection? From left to right, the lanes are numbered as 1, 2, 3 and 4. A. 1. B. 2. C. 3. D. 4."
+138,What is preventing the car from turning left? A. No road. B. Construction blockade. C. Pedestrian. D. Car.
+139,Can you turn right at this intersection? A. Yes. B. No. C. Ambiguous. D. None of the above.
+140,What is the speed limit on ego's road? A. 15mph. B. 25mph. C. 35mph. D. 55mph.
+141,What was wrong with ego's action? A. Driving in an implied median. B. Driving in the incorrect direction on a one way road. C. Hitting a curb. D. Failing to yield for traffic.
+142,Is it legal and safe to directly a left turn at the upcoming intersection? A. No it's a one way going right. B. No we have to wait for left turn signal. C. No there is oncoming traffic. D. Yes it is legal and safe.
+143,Why can ego not go straight through the intersection? A. The light for traffic going straight is red. B. The lane that ego is on is a turn only lane. C. The road ahead is blocked by construction. D. The road ahead is blocked by a car.
+144,How many lanes on the intersection ahead go straight? A. 1. B. 2. C. 3. D. 4.
+145,"Which lane, in the direction of ego's travel, is blocked by construction? A. Left most lane. B. Center lane. C. Right most lane. D. None of the above."
+146,What are the valid maneuvers for ego's current lane once the traffic-light turns green? A. Turn left only. B. Turn left and go straight. C. Go straight only. D. Turn right and go straight.
+147,What types of lane changes are permitted from ego's current position? A. Left lane change. B. Right lane change. C. Left and right lane changes. D. None of the above.
+148,Why would it be inappropriate for ego to traverse straight through the intersection? A. There is another vehicle pulling out of the driveway. B. The road ahead is blocked by construction. C. This intersection is a T-junction. D. It is appropriate for ego to traverse straight through the intersection.
+149,What is the speed limit relevant to ego? A. 35. B. 30. C. 25. D. 60.
+150,What is the color and shape of the traffic light relevant to ego? A. Red Left Arrow. B. Red Circle. C. Green Circle. D. Red Right Arrow. E. Green Left Arrow.
+151,What is the speed limit relevant to ego? A. 35. B. 30. C. 25. D. 45.
+152,For what should the ego yield given the yield sign? A. Cross traffic. B. Railroad. C. Pedestrians. D. There is no yield sign.
+153,What is the color and shape of the traffic light relevant to ego? A. Green Circle. B. Green Left Arrow. C. Green Right Arrow. D. Green Diagonal Left Arrow.
+154,How many lanes are able to take left fork? A. 1. B. 2. C. 3. D. 4.
+155,Why should ego be coming to a stop in this scenario? A. The bicyclist ahead. B. The pedestrian ahead. C. Stop sign. D. Red light.
+156,Which lanes can go straight at the intersection ahead? A. The left two lanes. B. The right two lanes. C. All the lanes. D. The middle lane.
+157,What do majority of the road signs say? A. Yield. B. Stop. C. No right turn on red. D. Be prepared to stop.
+158,"What are the valid maneuvers from ego's current lane? A. Go straight. B. Turn left. C. Turn right. D. Go straight, turn left and turn right."
+159,"Is ego likely to interact with the emergency vehicle in the future? A. No, because ego and the emergency vehicle are travelling in different directions. B. No, because ego and the emergency vehicle are on different roads. C. Yes, because even though ego and the emergency vehicle are on different roads, they are likely to be in merging traffic in the future. D. Yes, because ego and the emergency vehicle are on the same lane currently."
+160,How many lanes are travelling in ego's direction? A. 1. B. 2. C. 3. D. 4.
+161,What was the white truck in front of ego doing? A. Dancing. B. Doing a 3-point turn. C. Parking. D. Yielding to the ego.
+162,Which statement most accurately describes the situation that ego is in? A. Ego is on the left most lane merging to the lane on the right. B. Ego is on the right most lane merging to the lane on the left. C. Ego is in the center lane merging to the lane on the left. D. Ego is in the center lane merging to the lane on the right.
+163,What are the legally allowed actions for ego? A. Turn left only. B. Turn right only. C. Turn left and turn right. D. U-turn only.
+164,"Why is the pickup truck in front of ego stopped? A. Waiting for a traffic light. B. Stop sign. C. Car stopped in front. D. Can't tell, need more context."
+165,What should ego do at the crosswalk? A. come to a stop. B. wait for pedestrians to arrive. C. pullover. D. proceed without stopping.
+166,Do we need to yield for the jogger in the scene? A. Yes. B. No. C. Unsure. D. Insufficient information.
+167,What lights are on for the oncoming car? A. No lights are on. B. Left turn light is on. C. Right turn light is on. D. Hazard lights are on.
+168,Which best describes the traffic light relevant to ego? A. Flashing red. B. Flashing yellow. C. Solid green. D. Solid yellow.
+169,How many traffic lights apply to ego's current intersection? A. 2. B. 3. C. 4. D. 5.
+170,What is the blinker state of the car in the same lane as ego towards the end of the video? A. No blinker is on. B. Left blinker is on. C. Right blinker is on. D. Hazard lights are on.
+171,What would be the best estimate for the length of time in seconds that the green light ahead would remain green? A. 5. B. 15. C. 25. D. 35.
+172,How many lanes are traveling in the same direction as ego? A. 1. B. 2. C. 3. D. 4.
+173,What are the words on the blue and white sign? A. Do not enter. B. Stop. C. Bicycle. D. Slow streets.
+174,What action should ego take? A. Lane change to the left. B. Lane change to the right. C. Continue in the current lane. D. Come to a stop.
+175,Which of the following best describes the intersection ego is at? A. Traffic light intersection. B. Roundabout. C. Cross traffic does not stop. D. All way stop.
+176,What is the expected next action for the fire truck? A. Stay in lane. B. Lane change to the left. C. Lane change to the right. D. Stop.
+177,In which direction can you proceed at the intersection? A. Straight. B. Left. C. Right. D. All of the Above
+178,In what direction is the bicyclist travelling? A. Same direction as ego. B. Opposite direction from ego. C. From left to right. D. From right to left.
+179,How is the car in front driving? A. Making a left lane change. B. Making a right lane change. C. Staying in lane. D. Parking.
+180,What is the color and shape of the traffic light relevant to ego's current lane? A. Green Left Arrow. B. Green Right Arrow. C. Green Circle. D. Red Right Arrow.
+181,What is the correct thing to do at the upcoming traffic light? A. Come to a complete stop. B. Proceed as if a green light. C. Proceed with caution. D. Speed up.
+182,Why would it be inappropriate for ego to turn left? A. There is a no left turn sign. B. The road to the left is blocked by construction. C. The road to the left is blocked by a vehicle. D. The road to the left is a railroad.
+183,What is the intent of the vehicle on the oncoming side of the road? A. Continue straight. B. Right turn. C. Left turn. D. Park.
+184,How many cars are in the left turn lane ahead of ego? A. 0. B. 1. C. 2. D. 3.
+185,Ego's navigation route is to go straight at this intersection. What is the best action for ego in this situation? A. Turn left. B. Go straight. C. Turn right. D. Reverse.
+186,How many drivable lanes are travelling in ego's direction on ego's current road? A. 1. B. 2. C. 3. D. 4.
+187,What does the sign on the right say? A. No left turn. B. No U-turn. C. No left turn or U-turn. D. No right turn.
+188,What are the valid maneuvers through the intersection for ego's current lane? A. Straight only. B. Left turn only. C. Left turn and straight. D. Right turn only.
+189,What is the slope of the road ego is traversing? A. Uphill. B. Downhill. C. Flat. D. Bumpy.
+190,Why does ego need to slow down? A. Light turned yellow. B. Light turned red. C. Yielding for a pedestrian. D. Speedbump ahead.
+191,"Is the adjacent truck about to lane change in front of us? A. Yes definitely. B. Possibly but we should yield to be safe. C. No the adjacent truck is about to lane change behind us. D. No, there are no other vehicles in the scene."
+192,What color is the traffic light that is flashing? A. Green. B. Yellow. C. Red. D. Blue.
+193,What is the blinker state of the car in front of ego? A. Right signal light on. B. Left signal light on. C. Blinkers are off. D. Hazard lights are on.
+194,How many flashing light bulbs are there? A. 1. B. 2. C. 3. D. 4.
+195,What is the best course of action for ego in this situation? A. Continue driving straight normally. B. Stop or pullover. C. Accelerate. D. Honk.
+196,How many lanes are blocked off by construction? A. 0. B. 1. C. 2. D. 3.
+197,What direction was the moving car traversing in during the video? A. Left to right. B. Right to left. C. Same direction as ego. D. Opposite direction from ego.
+198,What is the correct behavior for ego at the upcoming intersection? A. Continue at the same speed. B. Slow down but do not come to a stop. C. Come to a stop. D. Speed up.
+199,"At the upcoming intersection, how many lanes support a drive straight maneuver? A. 5. B. 4. C. 3. D. 2."
+200,What are the legal maneuvers through the intersection in ego's current lane? A. Turn left only. B. Turn right only. C. Turn left and go straight. D. Turn right and go straight.
+201,What is the color and shape of the traffic light closest to ego? A. Red Circle. B. Red Right Arrow. C. Red Left Arrow. D. Yellow Circle. E. Yellow Left Arrow.
+202,What directions of travel are legal from ego's current lane? A. Left only. B. Straight or Left. C. Straight only. D. Right only.
+203,What best describes the cones in this scene? A. The cones block ego's path forward. B. The cones block ego's path to the right. C. The cones block ego's path to the left. D. The cones do not block ego's path.
+204,How many lanes turn right at the intersection ahead? A. 1. B. 2. C. 3. D. 4.
+205,What lane should ego be in to take the 290 East? A. Right most lane. B. Center lanes. C. Left most lane. D. Any lane.
+206,How many stop signs are facing ego and relevant to ego for the intersection ahead? A. 1. B. 2. C. 3. D. 4.
+207,What material is ego's right wheel driving over? A. Grass. B. Concrete. C. Sand. D. Rocks.
+208,"In order to complete a left turn at the upcoming intersection, what does ego need to do? A. Stay in the current lane. B. Lane change to the left, looking out for the traffic light. C. Lane change to the left, looking out for the bollards. D. Lane change to the right."
+209,Can you enter the 805 Highway Northbound from the current lane? A. Yes. B. No. C. Insufficient information. D. None of the above.
+210,Why does ego come to a stop? A. stop sign. B. red light. C. closed gate. D. river
+211,How many lanes are able to take exit 289? A. 1. B. 2. C. 3. D. 4.
+212,Which is not true about the scene. A. Ego is not allowed to turn left at this intersection. B. There are bicyclists in ego's lane. C. There are bollards to ego's left. D. Ego's lane has a green light.
+213,How many lanes in the direction of ego are there on the road? A. 5. B. 6. C. 7. D. 8.
+214,What is the speed limit on this road? A. 15mph. B. 25mph. C. 35mph. D. None of the above.
+215,What maneuvers can ego do from the current lane? A. Go straight only. B. Turn left only. C. Turn right only. D. U-turn only.
+216,Why is traffic slowing down? A. low visibility. B. road work. C. Parking. D. drop off.
+217,How many lanes can you proceed straight from at the next intersection? A. 0. B. 1. C. 2.
+218,How many lanes in the direction of ego are there for the intersection ahead? A. 3. B. 4. C. 5. D. 6.
+219,Can ego legally and safely make a right lane change now? A. yes because the right lane is empty. B. No because there is no right lane. C. No because of the solid white lines in between. D. No because ego is moving too fast.
+220,Why is ego slowing down? A. Stop Sign. B. Pedestrian. C. Red Traffic Light. D. Pothole.
+221,How far is the exit to South Lockhart? A. 1/4 mile. B. 1/2 mile. C. 3/4 mile. D. 1 mile.
+222,What are the available maneuvers through the intersection for ego's current lane? A. Turn left only. B. Turn right only. C. Turn left and go straight. D. Turn right and go straight.
+223,What is the state of the traffic light ahead? A. Solid red. B. Blinking red. C. Solid green. D. Blinking green.
+224,What obstacle is in front of ego? A. Tree branch. B. Traffic cone. C. Cardboard box. D. Scooter.
+225,Describe the intention of the oncoming car. A. Intends to go straight. B. Will reverse. C. Is parked. D. Will turn left.
+226,"On the road ahead, which lane is closed by construction? A. The lane to ego's left. B. Ego's lane. C. The lane to ego's right. D. None of the above."
+227,What occured at the end of the video that ego should watch out for? A. Oncoming vehicle swerved into our lane. B. Traffic light turned yellow. C. Pedestrian jumped in ego's way. D. Open car door.
+228,"The time now is 7:30pm. Would it be appropriate for ego to turn left at the intersection ahead and why? A. Yes, there is a road to the left of ego. B. No, the road is blocked by construction. C. No, the road is blocked by a bus. D. No, there is a no left turn sign."
+229,In front of you is a one way road. Which direction does traffic go on this road? A. Left. B. Right.
+230,What is ego's immediate most likely action? A. Turn left. B. Go straight. C. Turn right. D. Stop.
+231,How do we get on highway 27? A. Lane change to the left. B. Stay on the current lane. C. Lane change to the right. D. Insufficient information to tell.
+232,"Which of the following is a valid, legal and safe driving maneuver? A. Stop. B. Turn Right. C. Proceed Straight. D. Turn Left."
+233,How many lanes are present on ego's current road in the direction of ego's travel? A. 1. B. 2. C. 3. D. 4.
+234,How many unique vehicles cross in front of ego and exit the video frame? A. 0. B. 1. C. 2. D. 3.
+235,"From the current lane, what maneuvers can ego do legally from the provided options? A. Go straight only. B. Go straight and turn left. C. Go straight and turn right. D. Go straight, turn left and turn right."
+236,How many car lanes are present on ego's current road in the direction of ego's travel? A. 1. B. 2. C. 3. D. 4.
+237,Why should ego slow down? A. For the stop sign. B. For the pedestrian. C. For the turn ahead. D. For a red light.
+238,What is the speed limit of the road that ego's currently on? A. 65mph. B. 45mph. C. 35mph. D. 25mph.
+239,Why does ego need to slow down? A. Red light ahead. B. Stopped traffic ahead. C. No need to slow down. D. Pedestrian crossing.
+240,How many lanes are travelling in ego's direction? A. 2. B. 3. C. 4. D. 6.
+241,What is the green-colored item on the road in front of ego? A. Some tape on the ground. B. A toy car. C. A car jack. D. A trolley.
+242,How many lanes are traveling in the same direction as ego? A. 2. B. 3. C. 4. D. 5.
+243,Why is it inappropriate for ego to drive straight? A. There are cones blocking ego's path. B. There is a car facing ego ahead. C. There is a tree ahead. D. There is a do not enter sign.
+244,What is the speed limit relevant to ego? A. 35. B. 30. C. 25. D. 45.
+245,The flashing sign ahead indicates ego should perform what maneuver? A. Stop ahead. B. Right lane change ahead. C. No action required. D. Left lane change ahead.
+246,What should ego do at this intersection? A. Turn left. B. Go straight. C. Turn right.
+247,Count the number of unique pedestrians seen by the ego. A. 0. B. 1. C. 2. D. 3. E. 4.
+248,Why did ego stop? A. Stop sign. B. Blocked path. C. Wait for pedestrian. D. Red light.
+249,Which description below is correct if ego wants to turn right at the Anza street ahead? A. Ego should directly turn right from the current lane because the right lane is an HOV lane. B. Ego should immediately lane change to the right lane and then turn right. C. Ego can't lane change to the right lane because that is an HOV lane. D. Ego should proceed through this intersection as it's not Anza street yet.
+250,What is the speed limit of the road straight in front of ego? A. 25. B. 30. C. 35. D. 40.
+251,What best describes the type of intersection ego is at? A. All way stop. B. Traffic light controlled. C. T-junction. D. Roundabout.

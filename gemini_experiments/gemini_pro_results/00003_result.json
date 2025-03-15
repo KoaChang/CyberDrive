@@ -1,0 +1,9 @@
+{
+  "answer": "*   **Frame 1:** The ego vehicle is in the right lane, approaching a left curve. A white solid line separates the right lane (where ego is) from what appears to be a bike lane or shoulder. Double yellow lines separate the ego vehicle's lane from oncoming traffic.\n*   **Frame 2:** The ego vehicle is navigating the left curve, still within the right lane.\n*   **Frame 3:** The ego vehicle continues in the right lane, and the road is starting to straighten.\n*   **Frame 4:** The road curves to the right, and the ego vehicle follows the curve, remaining in the right lane.\n*   **Frame 5:** The ego vehicle continues to follow the right curve, staying within its lane.\n\nBased on these observations, the ego vehicle stays within its lane, which curves first to the left and then to the right.\n\n<answer>C</answer>\n",
+  "candidates": [
+    {
+      "content": "*   **Frame 1:** The ego vehicle is in the right lane, approaching a left curve. A white solid line separates the right lane (where ego is) from what appears to be a bike lane or shoulder. Double yellow lines separate the ego vehicle's lane from oncoming traffic.\n*   **Frame 2:** The ego vehicle is navigating the left curve, still within the right lane.\n*   **Frame 3:** The ego vehicle continues in the right lane, and the road is starting to straighten.\n*   **Frame 4:** The road curves to the right, and the ego vehicle follows the curve, remaining in the right lane.\n*   **Frame 5:** The ego vehicle continues to follow the right curve, staying within its lane.\n\nBased on these observations, the ego vehicle stays within its lane, which curves first to the left and then to the right.\n\n<answer>C</answer>\n",
+      "finish_reason": "STOP"
+    }
+  ]
+}

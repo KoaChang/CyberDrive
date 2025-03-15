@@ -1,0 +1,3 @@
+{
+  "error": "503 Method GenerateContent of service aiplatform.googleapis.com is visibility restricted, but visibility check was unavailable. Please retry the request."
+}

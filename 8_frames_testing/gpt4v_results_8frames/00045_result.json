@@ -1,0 +1,4 @@
+{
+  "answer": "To determine which lane is blocked by construction, let's analyze the frames:\n\n1. **Frame 1-3**: The road is visible, and there are no clear indications of construction blocking any lane.\n2. **Frame 4-5**: Traffic cones start appearing in the leftmost lane, suggesting the beginning of a construction zone.\n3. **Frame 6-8**: The leftmost lane is clearly marked with cones, indicating it is blocked by construction.\n\nThe progression of frames shows that the leftmost lane is being blocked by construction cones.\n\nTherefore, the best answer is:\n\n<answer>A</answer>",
+  "finish_reason": "stop"
+}

@@ -1,0 +1,4 @@
+{
+  "answer": "To determine why the ego vehicle changed lanes to the left, let's analyze the frames:\n\n1. **Frames 1-3**: The ego vehicle is in the rightmost lane. Traffic is moving smoothly, and there are no visible signs or indicators of an exit or blockage.\n\n2. **Frames 4-5**: Traffic cones start appearing on the right side of the lane, suggesting upcoming roadwork or a lane closure.\n\n3. **Frames 6-8**: The cones become more prominent, and a sign with arrows indicates that the lane is closing or merging left. The ego vehicle moves to the left lane to avoid the blockage.\n\nBased on the frames, the most logical reason for the lane change is that the current lane is blocked by construction cones and a sign indicating a lane closure.\n\nThe best answer is:\n\n<answer>D</answer>",
+  "finish_reason": "stop"
+}

@@ -1,0 +1,4 @@
+{
+  "answer": "To determine why the truck ahead of the ego vehicle has its blinkers on, let's analyze the frames:\n\n1. **Frame 1-4**: The truck is in the right lane, and there is no visible indication of blinkers.\n2. **Frame 5-8**: The truck remains in the same lane, and there is no visible indication of blinkers.\n\nBased on the frames provided, there is no evidence that the truck's blinkers are on. The truck maintains its position in the lane without any visible signal lights.\n\nTherefore, the best answer is:\n\n<answer>D</answer>",
+  "finish_reason": "stop"
+}

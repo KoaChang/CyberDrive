@@ -1,0 +1,9 @@
+{
+  "answer": "*   **Frame 1:** Ego vehicle is in the right lane. There are multiple lanes, and traffic appears to be flowing normally. No immediate reason for a lane change is apparent.\n*   **Frame 2:** Ego vehicle is still in the right lane. Traffic is still flowing.\n*   **Frame 3:** Ego vehicle is still in the right lane. Orange and white barrels start to appear on the right shoulder, suggesting a lane closure ahead.\n*   **Frame 4:** Ego vehicle begins to merge into the left lane. The barrels are closer, and a flashing arrow board is visible, clearly indicating the right lane is closing.\n*   **Frame 5:** Ego vehicle has completed the lane change to the left. The lane closure is very obvious.\n\nBased on the progression of the frames, the most apparent reason for the lane change is the lane closure.\n\n<answer>D</answer>\n",
+  "candidates": [
+    {
+      "content": "*   **Frame 1:** Ego vehicle is in the right lane. There are multiple lanes, and traffic appears to be flowing normally. No immediate reason for a lane change is apparent.\n*   **Frame 2:** Ego vehicle is still in the right lane. Traffic is still flowing.\n*   **Frame 3:** Ego vehicle is still in the right lane. Orange and white barrels start to appear on the right shoulder, suggesting a lane closure ahead.\n*   **Frame 4:** Ego vehicle begins to merge into the left lane. The barrels are closer, and a flashing arrow board is visible, clearly indicating the right lane is closing.\n*   **Frame 5:** Ego vehicle has completed the lane change to the left. The lane closure is very obvious.\n\nBased on the progression of the frames, the most apparent reason for the lane change is the lane closure.\n\n<answer>D</answer>\n",
+      "finish_reason": "STOP"
+    }
+  ]
+}

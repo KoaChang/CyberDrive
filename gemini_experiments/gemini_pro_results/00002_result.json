@@ -1,0 +1,9 @@
+{
+  "answer": "*   **Frame 1:** Shows a double yellow line in the center of the road, indicating no passing. There are orange cones and barrels on the right side, suggesting temporary restrictions. There are also cars parked on the right.\n*   **Frame 2:** More clearly shows the parked cars on the right curb, and the temporary construction barriers.\n*   **Frame 3:** A white car is turning right, and we can see the right curb better.\n*   **Frame 4:** Shows the road ahead, with the double yellow lines continuing. The orange construction barriers are still present on the right.\n*   **Frame 5:** Most importantly, this frame shows a \"No Parking Any Time\" sign on the right side of the road, near the curb.\n\nBased on the frames, especially Frame 5 with the \"No Parking\" sign, and the presence of construction barriers, it is clear that parking is restricted.\n\n<answer>A</answer>\n",
+  "candidates": [
+    {
+      "content": "*   **Frame 1:** Shows a double yellow line in the center of the road, indicating no passing. There are orange cones and barrels on the right side, suggesting temporary restrictions. There are also cars parked on the right.\n*   **Frame 2:** More clearly shows the parked cars on the right curb, and the temporary construction barriers.\n*   **Frame 3:** A white car is turning right, and we can see the right curb better.\n*   **Frame 4:** Shows the road ahead, with the double yellow lines continuing. The orange construction barriers are still present on the right.\n*   **Frame 5:** Most importantly, this frame shows a \"No Parking Any Time\" sign on the right side of the road, near the curb.\n\nBased on the frames, especially Frame 5 with the \"No Parking\" sign, and the presence of construction barriers, it is clear that parking is restricted.\n\n<answer>A</answer>\n",
+      "finish_reason": "STOP"
+    }
+  ]
+}
